@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.itcjy.ylatex.demos.web.controller;
+package com.itcjy.ylatex.controller;
 
-import com.itcjy.ylatex.demos.web.pojo.User;
+import com.itcjy.ylatex.pojo.User;
 import org.springframework.web.bind.annotation.*;
 
 @RequestMapping("/ylatex")

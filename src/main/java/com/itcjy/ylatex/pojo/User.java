@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.itcjy.ylatex.demos.web.pojo;
+package com.itcjy.ylatex.pojo;
 
 /**
  * @author <a href="mailto:chenxilzx1@gmail.com">theonefx</a>
