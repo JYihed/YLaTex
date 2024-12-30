@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.itcjy.ylatex.demos.web;
+package com.itcjy.ylatex.demos.web.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;
